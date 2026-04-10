@@ -31,7 +31,8 @@ This project analyzes sales data to generate business insights and support decis
 - Derived business insights for performance improvement
 
 ## Screenshot
-(Add your dashboard image here)
+<img width="1232" height="703" alt="image" src="https://github.com/user-attachments/assets/b79d483f-5f4c-4347-9599-cc99e6eef174" />
+
 
 ## Conclusion
 This project demonstrates my ability to clean, analyze, and visualize large datasets and build interactive dashboards using Power BI.
